@@ -6,6 +6,9 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * 流程关系
+ */
 @Setter
 @Getter
 public class FlowRelation {
